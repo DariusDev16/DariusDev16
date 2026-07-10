@@ -2,10 +2,10 @@
 
 
 ```
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" width="720" height="190">
+<img width="720" height="190" alt="banner" src="https://github.com/user-attachments/assets/80e0f5ec-e360-4750-8f9f-3413511a2da4" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" width="720" height="190">
   <rect x="0" y="0" width="720" height="190" rx="10" fill="#0d1117"/>
   <text x="20" y="35" xml:space="preserve" font-family="Courier New, monospace" font-size="15" fill="#e50914" font-weight="bold">
-    <tspan x="20" dy="0">  ████▄   █    ██  ██████  ▄▄▄█████▓ ▄▄▄       ██▀███  ▓█████▄ </tspan>
+    <tspan x="20" dy="0">████▄   █    ██  ██████  ▄▄▄█████▓ ▄▄▄       ██▀███  ▓█████▄ </tspan>
     <tspan x="20" dy="18">▒██▀ ██▌ ██  ▓██▒▒██    ▒ ▓  ██▒ ▓▒▒████▄    ▓██ ▒ ██▒▒██▀ ██▌</tspan>
     <tspan x="20" dy="18">░██   █▌▓██  ▒██░░ ▓██▄   ▒ ▓██░ ▒░▒██  ▀█▄  ▓██ ░▄█ ▒░██   █▌</tspan>
     <tspan x="20" dy="18">░▓█▄   ▌▓▓█  ░██░  ▒   ██▒░ ▓██▓ ░ ░██▄▄▄▄██ ▒██▀▀█▄  ░▓█▄   ▌</tspan>
@@ -16,7 +16,9 @@
     <tspan x="20" dy="18">   ░       ░           ░                 ░  ░   ░        ░    </tspan>
     <tspan x="20" dy="18"> ░                                                     ░</tspan>
   </text>
-</svg>   
+</svg>
+
+
 ```
 
 ### Software Development Enthusiast | Learning AI & Linux 🐧
