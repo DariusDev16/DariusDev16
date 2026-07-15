@@ -20,9 +20,8 @@
 
 ---
 
-### Sobre mim
+### About me
 
-Estou construindo minha base em desenvolvimento de software, com foco atual em **Python** e nos fundamentos de **Ciência da Computação**.
 I'm building my foundation in software development, currently focusing on **Python** and **Computer Science fundamentals**.
 
 
@@ -33,7 +32,7 @@ I'm building my foundation in software development, currently focusing on **Pyth
 
 ---
 
-### 🛠️ **Technologies & Tools**
+### 🛠️ Technologies & Tools
 
 <div align="center">
 
