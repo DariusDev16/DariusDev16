@@ -20,7 +20,7 @@
 
 ---
 
-### About me:
+### 🎩 About me:
 
 I'm building my foundation in software development, currently focusing on **Python** and **Computer Science fundamentals**.
 
@@ -32,7 +32,7 @@ I'm building my foundation in software development, currently focusing on **Pyth
 
 ---
 
-### 🛠️ Technologies:
+### 🛠️ Tech Stack:
 
 <div align="center">
 
