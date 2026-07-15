@@ -22,17 +22,18 @@
 
 ### Sobre mim
 
-Estou construindo minha base em desenvolvimento de software, com foco atual em **Python** e nos fundamentos de **Ciência da Computação**. Curioso por IA e Linux, aprendendo um pouco a cada dia.
+Estou construindo minha base em desenvolvimento de software, com foco atual em **Python** e nos fundamentos de **Ciência da Computação**.
+I'm building my foundation in software development, currently focusing on **Python** and **Computer Science fundamentals**.
 
-- 🎓 Atualmente cursando **CS50** — **Week 06 (Python)**
-- 🐍 Estudando **Python** com afinco
-- 🤖 Explorando os fundamentos de **Inteligência Artificial**
-- 🐧 Aprendendo **Linux**
-- 📌 Projeto em destaque: [`ApiSimpleProject`](https://github.com/DariusDev16/ApiSimpleProject)
+
+- 🎓 Currently pursuing **CS50**
+- 🐍 Studying **Python**
+- 🐧 Learning **Linux**
+- 📌 Featured Project: [`ApiSimpleProject`](https://github.com/DariusDev16/ApiSimpleProject)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ **Technologies & Tools**
 
 <div align="center">
 
