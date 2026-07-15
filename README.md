@@ -44,24 +44,3 @@ Estou construindo minha base em desenvolvimento de software, com foco atual em *
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DariusDev16&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariusDev16&layout=compact&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DariusDev16&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-💡 *"Every expert was once a beginner."*
-
-</div>
