@@ -32,7 +32,7 @@ I'm building my foundation in software development, currently focusing on **Pyth
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies
 
 <div align="center">
 
