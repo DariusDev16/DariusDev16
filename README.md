@@ -28,7 +28,7 @@ I'm building my foundation in software development, currently focusing on **Pyth
 - 🎓 Currently pursuing **CS50**
 - 🐍 Studying **Python**
 - 🐧 Learning **Linux**
-- 📌 Featured Project: [`ApiSimpleProject`](https://github.com/DariusDev16/ApiSimpleProject)
+- 📌 Featured Project: [`tunegrab`](https://github.com/DariusDev16/ApiSimpleProject](https://github.com/DariusDev16/tunegrab)
 
 ---
 
